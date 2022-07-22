@@ -146,7 +146,7 @@ GROUP BY Event.type
 ORDER BY  average_attendance DESC
 
 
--- investigating if there are members that have not paid dues
+-- members that have not paid dues
 SELECT Member.member_id
 	, Member.first_name
 	, Member.last_name
