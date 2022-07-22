@@ -1,5 +1,5 @@
 # Querying-Atlas-Student-Database
-### Queries used for exploratory analysis of a fictitious college club's database.
+### Queries used in the exploratory analysis of a fictitious college club's database.
 The database was downloaded from [data.world](https://data.world/atlas-query/student-club) and contains 7 tables -
 * Attendance
 * Budget 
